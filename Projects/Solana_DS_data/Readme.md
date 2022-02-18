@@ -3,4 +3,6 @@ This folder contain following files and folders:
 <li>Pools TVL.ipynb - jupyter notebook for processing uploaded data about pools into file for Data studio  
 <li>stSOL general - jupyter notebook for processing uploaded data about general stSOL info into file for Data studio  
 <li>"Google DS" folder - contains all info for visualizing in google DS  
+<li>all_pools_file.csv - file with info about stSOL TVL among every pool
+<li>bigQ_loader - script for uploading data to Big Query
 <li>"Prices" folder  - contains all info about prices at every day for every token  
